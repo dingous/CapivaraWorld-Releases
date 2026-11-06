@@ -2,7 +2,7 @@
 
 [Play free in your browser / Jogar grátis no navegador](https://www.dingous.com.br/Games/CapivaraWorld/)
 
-![Capivara World cover illustration](media/cover.png)
+![Capivara World cover illustration](https://raw.githubusercontent.com/dingous/CapivaraWorld-Releases/master/media/cover.png)
 
 Cover illustration / Ilustração de capa.
 
